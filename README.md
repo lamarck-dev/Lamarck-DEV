@@ -1,6 +1,6 @@
 ## Hi there :sunglasses::computer:
 
-Me chamo Lamarck, sou graduado em Sistema de Informação com ênfase em análise de sistemas, hoje, busco oportunidade na área de programação, áreas que me instiga, e onde, decididamente, desejo atuar, me desafiando, a fim de, com estudo ininterrupto, dedicação me tornar um egrégio profissional na busca incansável da excelência.
+Me chamo Lamarck, sou graduado em Sistema de Informação com ênfase em análise de sistemas, hoje, busco oportunidade na área de programação, áreas que me instiga, e onde, decididamente, desejo atuar, me desafiando, a fim de, com estudo ininterrupto e dedicação me tornar um egrégio profissional na busca incansável da excelência.
 <br>
 <br>
 
