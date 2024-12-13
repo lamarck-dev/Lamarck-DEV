@@ -12,7 +12,7 @@ Atualmente sigo estudando:
 
 <h2>Contato:</h2>
 
-<a href="https://www.linkedin.com/in/jeverton-lamarck-barbosa/">
+<a href="https://www.linkedin.com/in/jeverton-barbosa-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN-Logo"
 </a>
 <br>
